@@ -19,6 +19,7 @@ build a simple react shopping cart single page application using react major fun
 
 ## image
 
-![Goods display page](public\img\goods-display-page.png)
+![Goods display page](public/img/goods-display-page.png)
 
-![checkout page](public\img\checkOut.png)
+![checkout page](public/img/checkOut.png)
+
